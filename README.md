@@ -27,11 +27,6 @@ Library:
 
 Deployed Contract Address
 
-| Name | Address |
-| ------ | ------ |
-| Migrations | [plugins/dropbox/README.md][PlDb] |
-| FarmerROle | [plugins/github/README.md][PlGh] |
-| DistributorRole | [plugins/googledrive/README.md][PlGd] |
-| RetailerROle | [plugins/onedrive/README.md][PlOd] |
-| ConsumerROle | [plugins/medium/README.md][PlMe] |
-| Supplychain | [plugins/googleanalytics/README.md][PlGa] |
+| Name | Address | Link |
+| ------ | ------ |------|
+| Supplychain | 0xD47e2b5C6a62010aCD1e72061f3c3E3ECe2d659f | https://goerli.etherscan.io/address/0x313200fa8ff3099050ec1038950c4a083df0f797 |
